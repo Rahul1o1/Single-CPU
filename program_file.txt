@@ -1,2 +1,5 @@
 cpu.v
 dmem.v
+regfile.v
+alu.v
+decoder.v
